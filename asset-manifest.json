@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://azizbergach.github.io/csb-2gzev2/static/css/main.341b0d80.chunk.css",
+    "main.js": "https://azizbergach.github.io/csb-2gzev2/static/js/main.8f5b0c4c.chunk.js",
+    "main.js.map": "https://azizbergach.github.io/csb-2gzev2/static/js/main.8f5b0c4c.chunk.js.map",
+    "runtime-main.js": "https://azizbergach.github.io/csb-2gzev2/static/js/runtime-main.677d71b9.js",
+    "runtime-main.js.map": "https://azizbergach.github.io/csb-2gzev2/static/js/runtime-main.677d71b9.js.map",
+    "static/js/2.372d72fb.chunk.js": "https://azizbergach.github.io/csb-2gzev2/static/js/2.372d72fb.chunk.js",
+    "static/js/2.372d72fb.chunk.js.map": "https://azizbergach.github.io/csb-2gzev2/static/js/2.372d72fb.chunk.js.map",
+    "index.html": "https://azizbergach.github.io/csb-2gzev2/index.html",
+    "static/css/main.341b0d80.chunk.css.map": "https://azizbergach.github.io/csb-2gzev2/static/css/main.341b0d80.chunk.css.map",
+    "static/js/2.372d72fb.chunk.js.LICENSE.txt": "https://azizbergach.github.io/csb-2gzev2/static/js/2.372d72fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677d71b9.js",
+    "static/js/2.372d72fb.chunk.js",
+    "static/css/main.341b0d80.chunk.css",
+    "static/js/main.8f5b0c4c.chunk.js"
+  ]
+}
